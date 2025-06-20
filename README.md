@@ -5,4 +5,3 @@ The aim of this project is to build a basic recipe website using HTML. This proj
 - Manipulating texts in HTML
 - Linking using absolute and relative links
 - Working with images. 
-- 
